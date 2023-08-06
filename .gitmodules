@@ -1,0 +1,3 @@
+[submodule "Musign"]
+	path = Musign
+	url = https://github.com/violeta429/Musign.git
